@@ -1,4 +1,4 @@
-arduino-gesture-remote
+Arduino Gesture Remote
 ======================
 
 Control your TV with simple gestures.
@@ -11,5 +11,3 @@ I also took some IR codes for the TV from here: http://www.openremote.org/pages/
 Everything else uses the built in Arduino functions and libraries or my own work.
 
 To find out how to build the device, see http://www.dannicholson.co.uk/2013/07/23/arduino-ultrasonic-gesture-based-tv-remote-control/ or http://www.instructables.com/id/Ultrasonic-gesture-based-TV-remote-control/
-
-All my software is open source, please donate to help keep it free http://dannicholson.co.uk/donate
